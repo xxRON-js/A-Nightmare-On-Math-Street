@@ -21,7 +21,7 @@ Enhanced version that not only prints less but also asks for the IP address and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/pymare-scripts.git
+    git clone https://github.com/xxRON-js/A-Nightmare-On-Math-Street.git
     cd A-Nightmare-On-Math-Street
     ```
 
