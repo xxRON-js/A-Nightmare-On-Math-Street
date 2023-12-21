@@ -45,7 +45,7 @@ Enhanced version that not only prints less but also asks for the IP address and 
 
 3. Follow the on-screen instructions for providing the server's IP address and port number.
 
-4. The script will interact with the server, solve math questions, and print the flag.
+4. The script will interact with the server, solve reverse math questions, and print the flag.
 
 ## Disclaimer
 
