@@ -5,12 +5,14 @@ This repository contains Python scripts designed for solving math questions rece
 
 ## Scripts
 
+### Pymare-V2.py
+just hardcoded
 
-### pymare_v3.py
+### Pymare_V3.py
 
 Enhanced version that only prints less just hardcoded for get the flag fast.
 
-### pymare_v4.py
+### Pymare_V4.py
 
 Enhanced version that not only prints less but also asks for the IP address and port interactively instead of being hardcoded.
 
@@ -26,14 +28,20 @@ Enhanced version that not only prints less but also asks for the IP address and 
 2. Run the desired script:
 
     ```bash
-    python3 pymare.py
+    python3 Pymare-V2.py
     ```
 
     or
 
     ```bash
-    python3 pymare_v4.py
+    python3 Pymare_V3.py
     ```
+or
+
+    ```bash
+    python3 Pymare-V4.py
+    ```
+
 
 3. Follow the on-screen instructions for providing the server's IP address and port number.
 
