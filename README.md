@@ -34,7 +34,7 @@ Enhanced version that not only prints less but also asks for the IP address and 
     or
 
     ```bash
-    python3 Pymare_V3.py
+    python3 Pymare-V3.py
     ```
     or
 
