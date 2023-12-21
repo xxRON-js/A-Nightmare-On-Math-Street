@@ -5,21 +5,14 @@ This repository contains Python scripts designed for solving math questions rece
 
 ## Scripts
 
-### pymare.py
-
-The original script that interacts with a remote server, solves math questions, and prints the flag.
-
-### pymare_v2.py
-
-An improved version of the original script that prints less output, focusing only on the final flag.
 
 ### pymare_v3.py
 
-Enhanced version that not only prints less but also asks for the IP address and port interactively instead of being hardcoded.
+Enhanced version that only prints less just hardcoded for get the flag fast.
 
 ### pymare_v4.py
 
-Further refinement of the script that includes the improvements from v3 and additionally prompts the user for the server's IP address and port number.
+Enhanced version that not only prints less but also asks for the IP address and port interactively instead of being hardcoded.
 
 ## Usage
 
@@ -27,7 +20,7 @@ Further refinement of the script that includes the improvements from v3 and addi
 
     ```bash
     git clone https://github.com/yourusername/pymare-scripts.git
-    cd pymare-scripts
+    cd A-Nightmare-On-Math-Street
     ```
 
 2. Run the desired script:
